@@ -1,3 +1,4 @@
+t
 <php
 
 /* addizione */
@@ -30,3 +31,8 @@ function divisione (n1,n2) {
 }
 
 ?>
+
+prova
+
+aggiunta>
+
